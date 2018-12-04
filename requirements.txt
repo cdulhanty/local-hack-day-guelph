@@ -1,0 +1,5 @@
+google-cloud-vision
+boto3
+awscli
+clarifai
+azure-cognitiveservices-vision-computervision

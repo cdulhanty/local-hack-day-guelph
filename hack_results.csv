@@ -1,0 +1,244 @@
+﻿google_score,amazon_score,clarifai_score,class,race,gender
+0.65754348,99.69937134,0.893687963,Male_Black,Black,Male
+0.807385743,99.56203461,0.954452574,Male_Black,Black,Male
+0.522264242,99.67586517,0.943428695,Male_Black,Black,Male
+0.682777226,99.00605011,0.954016387,Male_Black,Black,Male
+0.717284381,97.71310425,0.916740298,Male_Black,Black,Male
+0.681903124,98.71502686,0.979613364,Male_Black,Black,Male
+0.731719017,97.93619537,0.991057754,Male_Black,Black,Male
+0.649656653,95.17747498,0.892811298,Male_Black,Black,Male
+0.687394977,98.92673492,0.975244522,Male_Black,Black,Male
+0.805085242,99.11003113,0.955530286,Male_Black,Black,Male
+0.596275628,98.23309326,0.844384432,Male_Black,Black,Male
+0.641424239,98.68505096,0.967179894,Male_Black,Black,Male
+0.844853163,99.3599472,0.990867496,Male_Black,Black,Male
+0.823742449,98.57093048,0.964232922,Male_Black,Black,Male
+0.750495255,98.74221802,0.98437953,Male_Black,Black,Male
+0.780907691,99.52204895,0.988805294,Male_Black,Black,Male
+0.651275575,98.48570251,0.5,Male_Black,Black,Male
+0.686034024,98.03800201,0.932158291,Male_Black,Black,Male
+0.790346265,99.60572815,0.993495405,Male_Black,Black,Male
+0.815104008,99.40070343,0.954763591,Male_Black,Black,Male
+0.801693738,96.95895386,0.990333259,Male_Black,Black,Male
+0.5,94.70496368,0.5,Male_Black,Black,Male
+0.784376502,99.92285156,0.905615449,Male_Black,Black,Male
+0.64780879,99.68741608,0.990911961,Male_Black,Black,Male
+0.80300492,99.63536072,0.977392435,Male_Black,Black,Male
+0.64973557,95.88223267,0.982305288,Male_Black,Black,Male
+0.563111722,96.65664673,0.931585312,Male_Black,Black,Male
+0.684699476,98.99963379,0.988424778,Male_Black,Black,Male
+0.751184821,97.84610748,0.904491663,Male_Black,Black,Male
+0.586629868,98.93834686,0.973419547,Male_Black,Black,Male
+0.792353749,98.90210724,0.894539475,Male_South Asian,South_Asian,Male
+0.794990182,98.27359772,0.960494637,Male_South Asian,South_Asian,Male
+0.809978485,99.79038239,0.958883882,Male_South Asian,South_Asian,Male
+0.713389575,97.13278961,0.977153003,Male_South Asian,South_Asian,Male
+0.849407434,99.78591919,0.969036579,Male_South Asian,South_Asian,Male
+0.786095619,96.63009644,0.908630311,Male_South Asian,South_Asian,Male
+0.791540384,93.67269135,0.938669086,Male_South Asian,South_Asian,Male
+0.822523236,95.15465546,0.982946634,Male_South Asian,South_Asian,Male
+0.572469234,98.0616684,0.920523405,Male_South Asian,South_Asian,Male
+0.762341201,99.24004364,0.915019035,Male_South Asian,South_Asian,Male
+0.805321038,99.60276794,0.934536159,Male_South Asian,South_Asian,Male
+0.850288868,97.40938568,0.991835177,Male_South Asian,South_Asian,Male
+0.549236774,97.95493317,0.970100522,Male_South Asian,South_Asian,Male
+0.882997453,97.74502563,0.967199326,Male_South Asian,South_Asian,Male
+0.748033822,97.14281464,0.989167333,Male_South Asian,South_Asian,Male
+0.77238518,99.04814148,0.940162301,Male_South Asian,South_Asian,Male
+0.786678135,98.46994781,0.985583663,Male_South Asian,South_Asian,Male
+0.755944252,91.26087952,0.988054514,Male_South Asian,South_Asian,Male
+0.824027121,98.61038208,0.987601876,Male_South Asian,South_Asian,Male
+0.761590898,79.11040497,0.958831787,Male_South Asian,South_Asian,Male
+0.820454776,99.89833069,0.893119693,Male_South Asian,South_Asian,Male
+0.883188367,98.34993744,0.993146539,Male_South Asian,South_Asian,Male
+0.79137522,94.39152527,0.955007792,Male_South Asian,South_Asian,Male
+0.792722583,98.21834564,0.977104247,Male_South Asian,South_Asian,Male
+0.844728708,98.74073792,0.948283911,Male_South Asian,South_Asian,Male
+0.5,99.57884216,0.5,Male_South Asian,South_Asian,Male
+0.83063525,91.32015228,0.969110787,Male_South Asian,South_Asian,Male
+0.77107197,99.42172241,0.893594325,Male_South Asian,South_Asian,Male
+0.785633683,99.39516449,0.986579537,Male_South Asian,South_Asian,Male
+0.5,97.89616394,0.903410614,Male_South-East Asian,South_East_Asian,Male
+0.891347528,95.13033295,0.965157032,Male_South-East Asian,South_East_Asian,Male
+0.5,93.87104797,0.918977141,Male_South-East Asian,South_East_Asian,Male
+0.690144122,96.51094055,0.992184401,Male_South-East Asian,South_East_Asian,Male
+0.847400784,98.9758606,0.955689788,Male_South-East Asian,South_East_Asian,Male
+0.850953519,99.55569458,0.985378146,Male_South-East Asian,South_East_Asian,Male
+0.736821413,98.94345856,0.953465462,Male_South-East Asian,South_East_Asian,Male
+0.718192518,78.56451416,0.917578459,Male_South-East Asian,South_East_Asian,Male
+0.811962962,98.32714844,0.97211349,Male_South-East Asian,South_East_Asian,Male
+0.771124303,99.66694641,0.974129915,Male_South-East Asian,South_East_Asian,Male
+0.786666691,99.45398712,0.993608057,Male_South-East Asian,South_East_Asian,Male
+0.817227125,97.48969269,0.988047361,Male_South-East Asian,South_East_Asian,Male
+0.635797381,50,0.969524503,Male_South-East Asian,South_East_Asian,Male
+0.850807428,94.64818573,0.998170972,Male_South-East Asian,South_East_Asian,Male
+0.833189309,99.58455658,0.960262775,Male_South-East Asian,South_East_Asian,Male
+0.5,96.67314911,0.942734718,Male_South-East Asian,South_East_Asian,Male
+0.76428622,99.32158661,0.986903906,Male_South-East Asian,South_East_Asian,Male
+0.85334903,99.76407623,0.973112643,Male_South-East Asian,South_East_Asian,Male
+0.790538788,98.41797638,0.980055451,Male_South-East Asian,South_East_Asian,Male
+0.839603364,98.43647766,0.994955063,Male_South-East Asian,South_East_Asian,Male
+0.76688832,97.10299683,0.981650472,Male_South-East Asian,South_East_Asian,Male
+0.811595798,98.79380798,0.993061781,Male_South-East Asian,South_East_Asian,Male
+0.82120949,99.24336243,0.951144934,Male_South-East Asian,South_East_Asian,Male
+0.814240694,96.70990753,0.985111117,Male_South-East Asian,South_East_Asian,Male
+0.800354779,99.8653717,0.973143756,Male_South-East Asian,South_East_Asian,Male
+0.5,98.57611847,0.988503218,Male_South-East Asian,South_East_Asian,Male
+0.730788291,98.97402191,0.916842461,Male_South-East Asian,South_East_Asian,Male
+0.810513318,99.33516693,0.991356015,Male_South-East Asian,South_East_Asian,Male
+0.793514371,96.70819092,0.965294123,Male_South-East Asian,South_East_Asian,Male
+0.79218322,99.85212708,0.989151001,Male_South-East Asian,South_East_Asian,Male
+0.79912138,99.76369476,0.980312288,Male_White,White,Male
+0.835985661,97.97611237,0.9967314,Male_White,White,Male
+0.831582725,97.93022156,0.974333346,Male_White,White,Male
+0.786047339,97.49034119,0.963996172,Male_White,White,Male
+0.793499053,99.5509491,0.923085868,Male_White,White,Male
+0.766710877,99.28466034,0.879402816,Male_White,White,Male
+0.825198472,99.32321167,0.995727599,Male_White,White,Male
+0.72893399,97.6293335,0.985292673,Male_White,White,Male
+0.785580695,99.7771759,0.998713255,Male_White,White,Male
+0.645326912,87.55980682,0.5,Male_White,White,Male
+0.81358397,99.21193695,0.926550031,Male_White,White,Male
+0.824363649,92.69535828,0.988595963,Male_White,White,Male
+0.792993486,99.54237366,0.92964983,Male_White,White,Male
+0.761567533,99.51638031,0.99187696,Male_White,White,Male
+0.82268399,99.90654755,0.993636608,Male_White,White,Male
+0.785610914,98.58951569,0.972515106,Male_White,White,Male
+0.827876329,98.62177277,0.903229475,Male_White,White,Male
+0.823802888,99.05382538,0.992664635,Male_White,White,Male
+0.5,98.49628448,0.942039669,Male_White,White,Male
+0.783463955,99.57540894,0.970911264,Male_White,White,Male
+0.790329874,97.55699158,0.980738997,Male_White,White,Male
+0.801965654,97.9045105,0.989908218,Male_White,White,Male
+0.811087608,99.23977661,0.989383161,Male_White,White,Male
+0.84351933,99.62880707,0.963378429,Male_White,White,Male
+0.685221314,98.4753952,0.5,Male_White,White,Male
+0.86543709,99.67031097,0.94528228,Male_White,White,Male
+0.869876981,99.19341278,0.993348598,Male_White,White,Male
+0.793097079,98.98222351,0.927120805,Male_White,White,Male
+0.792977989,99.50106049,0.990027785,Male_White,White,Male
+0.76279521,88.28777313,0.972319126,Male_White,White,Male
+0.740085423,98.47093201,0.974371016,Male_White,White,Male
+0.77478826,92.18188477,0.978847861,Female_Black,Black,Female
+0.588724136,50,0.904072046,Female_Black,Black,Female
+0.838782132,99.13100433,0.94837296,Female_Black,Black,Female
+0.685301483,88.98878479,0.970128536,Female_Black,Black,Female
+0.722472727,90.81381989,0.980872869,Female_Black,Black,Female
+0.690275431,93.92289734,0.985965312,Female_Black,Black,Female
+0.689437032,98.27947235,0.986956,Female_Black,Black,Female
+0.509709775,97.68225098,0.884706855,Female_Black,Black,Female
+0.77140075,98.97167206,0.986363411,Female_Black,Black,Female
+0.751223505,98.67477417,0.979258299,Female_Black,Black,Female
+0.763119578,85.87531281,0.993127227,Female_Black,Black,Female
+0.570475698,86.0586319,0.903198659,Female_Black,Black,Female
+0.658838928,93.95775604,0.99110806,Female_Black,Black,Female
+0.747827411,99.05944824,0.977454424,Female_Black,Black,Female
+0.665037155,98.80091095,0.994736552,Female_Black,Black,Female
+0.776707351,97.71334076,0.99783802,Female_Black,Black,Female
+0.716857135,97.1258316,0.990300655,Female_Black,Black,Female
+0.807512283,94.01605988,0.998728395,Female_Black,Black,Female
+0.5,76.83341217,0.998896718,Female_Black,Black,Female
+0.5,93.56732178,0.5,Female_Black,Black,Female
+0.627556205,98.24679565,0.976221681,Female_Black,Black,Female
+0.528201997,98.30680084,0.935004473,Female_Black,Black,Female
+0.649097681,98.78196716,0.88364321,Female_Black,Black,Female
+0.837340832,98.22385406,0.995985448,Female_Black,Black,Female
+0.5,91.91785431,0.924072266,Female_Black,Black,Female
+0.770461798,99.15263367,0.997448981,Female_Black,Black,Female
+0.695625842,94.42259216,0.998146057,Female_Black,Black,Female
+0.720563173,94.38793945,0.975409031,Female_Black,Black,Female
+0.807094336,99.04906464,0.998505354,Female_Black,Black,Female
+0.5,95.38968658,0.931644022,Female_Black,Black,Female
+0.5,50,0.5,Female_South Asian,South_Asian,Female
+0.807464838,98.3181839,0.99378562,Female_South Asian,South_Asian,Female
+0.506021023,50,0.5,Female_South Asian,South_Asian,Female
+0.837907553,99.17147827,0.995935917,Female_South Asian,South_Asian,Female
+0.71289736,97.09147644,0.99149847,Female_South Asian,South_Asian,Female
+0.807557821,97.08035278,0.992799044,Female_South Asian,South_Asian,Female
+0.5,72.35227966,0.867491484,Female_South Asian,South_Asian,Female
+0.5,95.5166626,0.914573967,Female_South Asian,South_Asian,Female
+0.5,98.73191071,0.5,Female_South Asian,South_Asian,Female
+0.5,98.93875122,0.940301597,Female_South Asian,South_Asian,Female
+0.722717106,97.58573151,0.995079458,Female_South Asian,South_Asian,Female
+0.813685775,94.80416107,0.992743909,Female_South Asian,South_Asian,Female
+0.534547746,98.80937958,0.956442952,Female_South Asian,South_Asian,Female
+0.5,99.84833527,0.5,Female_South Asian,South_Asian,Female
+0.727468371,98.0794754,0.996922493,Female_South Asian,South_Asian,Female
+0.779281259,98.76644897,0.99894321,Female_South Asian,South_Asian,Female
+0.860470414,99.16925812,0.995150566,Female_South Asian,South_Asian,Female
+0.823298156,99.23474121,0.992754817,Female_South Asian,South_Asian,Female
+0.736257136,89.7390976,0.995843709,Female_South Asian,South_Asian,Female
+0.765007079,97.64413452,0.998834074,Female_South Asian,South_Asian,Female
+0.81103301,98.77035522,0.998079956,Female_South Asian,South_Asian,Female
+0.658956707,99.55737305,0.979110658,Female_South Asian,South_Asian,Female
+0.5,91.42140198,0.5,Female_South Asian,South_Asian,Female
+0.803474844,97.91477203,0.998458922,Female_South Asian,South_Asian,Female
+0.835349321,94.99550629,0.999147415,Female_South Asian,South_Asian,Female
+0.586942673,96.03916168,0.995075583,Female_South Asian,South_Asian,Female
+0.5,96.14051819,0.929165125,Female_South Asian,South_Asian,Female
+0.835671961,98.95772552,0.998227179,Female_South Asian,South_Asian,Female
+0.825616419,97.15854645,0.995015502,Female_South Asian,South_Asian,Female
+0.620479882,99.21495056,0.983824253,Female_South Asian,South_Asian,Female
+0.56736654,64.49932098,0.5,Female_South Asian,South_Asian,Female
+0.820384026,96.92068481,0.998096943,Female_South-East Asian,South_East_Asian,Female
+0.700007021,92.03300476,0.993880033,Female_South-East Asian,South_East_Asian,Female
+0.75445497,99.48048401,0.978925288,Female_South-East Asian,South_East_Asian,Female
+0.703817785,98.68299866,0.991991758,Female_South-East Asian,South_East_Asian,Female
+0.847770393,99.04392242,0.989472747,Female_South-East Asian,South_East_Asian,Female
+0.737460792,94.22759247,0.954523563,Female_South-East Asian,South_East_Asian,Female
+0.60361445,94.02783203,0.978631735,Female_South-East Asian,South_East_Asian,Female
+0.871463239,89.15965271,0.979734421,Female_South-East Asian,South_East_Asian,Female
+0.796790898,98.45024109,0.993124008,Female_South-East Asian,South_East_Asian,Female
+0.840668619,96.44441223,0.911228299,Female_South-East Asian,South_East_Asian,Female
+0.821094155,98.2481308,0.988692105,Female_South-East Asian,South_East_Asian,Female
+0.636785984,99.31583405,0.5,Female_South-East Asian,South_East_Asian,Female
+0.852912009,98.92288971,0.97117269,Female_South-East Asian,South_East_Asian,Female
+0.809409797,76.39849091,0.960292041,Female_South-East Asian,South_East_Asian,Female
+0.813544154,97.76621246,0.995536327,Female_South-East Asian,South_East_Asian,Female
+0.772911966,96.51287842,0.991722167,Female_South-East Asian,South_East_Asian,Female
+0.854398191,98.62297821,0.992450535,Female_South-East Asian,South_East_Asian,Female
+0.778633118,98.64800262,0.970964015,Female_South-East Asian,South_East_Asian,Female
+0.668950021,96.08242798,0.97040832,Female_South-East Asian,South_East_Asian,Female
+0.878459692,98.26779938,0.974067032,Female_South-East Asian,South_East_Asian,Female
+0.822418928,90.82115173,0.984126747,Female_South-East Asian,South_East_Asian,Female
+0.800897777,98.36662292,0.983641624,Female_South-East Asian,South_East_Asian,Female
+0.65851754,96.10103607,0.99138999,Female_South-East Asian,South_East_Asian,Female
+0.620459914,99.0069046,0.921263099,Female_South-East Asian,South_East_Asian,Female
+0.850486457,94.41657257,0.996475101,Female_South-East Asian,South_East_Asian,Female
+0.840438128,96.5291748,0.998405576,Female_South-East Asian,South_East_Asian,Female
+0.831537426,97.99248505,0.999031067,Female_South-East Asian,South_East_Asian,Female
+0.5,86.53713226,0.928911746,Female_South-East Asian,South_East_Asian,Female
+0.772559106,88.4149704,0.992300868,Female_South-East Asian,South_East_Asian,Female
+0.809801877,99.13700104,0.978162646,Female_South-East Asian,South_East_Asian,Female
+0.5,67.7276535,0.909779727,Female_South-East Asian,South_East_Asian,Female
+0.846311688,97.50437164,0.932208061,Female_South-East Asian,South_East_Asian,Female
+0.615638018,71.07206726,0.975356221,Female_South-East Asian,South_East_Asian,Female
+0.673346579,88.41578674,0.980059862,Female_White,White,Female
+0.682198048,99.70632172,0.990384459,Female_White,White,Female
+0.609806418,95.2857132,0.906960607,Female_White,White,Female
+0.693425119,87.50714111,0.973398924,Female_White,White,Female
+0.784252048,91.49884796,0.887134671,Female_White,White,Female
+0.838465691,97.22098541,0.985594988,Female_White,White,Female
+0.800043225,89.01634216,0.992919803,Female_White,White,Female
+0.763388038,96.95838165,0.991029143,Female_White,White,Female
+0.836673737,96.41321564,0.973975956,Female_White,White,Female
+0.872013986,98.90036011,0.997881293,Female_White,White,Female
+0.779529631,88.11418915,0.956176639,Female_White,White,Female
+0.798115373,99.73817444,0.5,Female_White,White,Female
+0.796717286,86.50113678,0.988672972,Female_White,White,Female
+0.737602353,96.44173431,0.966043591,Female_White,White,Female
+0.750830293,97.57024384,0.99243927,Female_White,White,Female
+0.780859888,99.67643738,0.976347923,Female_White,White,Female
+0.768863142,97.14790344,0.993869305,Female_White,White,Female
+0.712972999,99.53224945,0.981147289,Female_White,White,Female
+0.772182465,98.63104248,0.996903658,Female_White,White,Female
+0.696473479,91.81111145,0.993703961,Female_White,White,Female
+0.708880484,56.01905823,0.889771819,Female_White,White,Female
+0.793634653,97.0400238,0.960466564,Female_White,White,Female
+0.688865304,97.14647675,0.981587529,Female_White,White,Female
+0.644236028,96.94187164,0.857701361,Female_White,White,Female
+0.730178237,97.51460266,0.98541075,Female_White,White,Female
+0.711619675,99.83393097,0.978766561,Female_White,White,Female
+0.82125771,98.83295441,0.99916321,Female_White,White,Female
+0.771138132,99.30106354,0.948182225,Female_White,White,Female
+0.687010467,99.72074127,0.948688507,Female_White,White,Female
